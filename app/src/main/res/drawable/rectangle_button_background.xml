@@ -1,0 +1,5 @@
+<!-- res/drawable/rectangle_button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#26833B" /> <!-- 버튼의 배경 색상 -->
+    <corners android:radius="0dp" /> <!-- 네모로 모양을 만들기 위해 0dp로 설정 -->
+</shape>

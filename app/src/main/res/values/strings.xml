@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Planner</string>
+    <string name="app_company">PHW</string>
+
+    <string name="button_register">등록</string>
+    <string name="msg_memo_input">메모를 입력해주세요</string>
+</resources>
